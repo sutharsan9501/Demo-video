@@ -2,6 +2,7 @@
 
 ## Project Documentation  
 [Health AI project documentation.pdf]
+(https://docs.google.com/document/d/1gOkO70uRJUsnoPdRpGUFSvLoulUbzLSM/edit?usp=drivesdk&ouid=113611206368987536660&rtpof=true&sd=true )
 
 ##  Video  
 Watch the  video here:  
